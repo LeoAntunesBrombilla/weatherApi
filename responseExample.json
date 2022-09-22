@@ -1,0 +1,41 @@
+{
+  "location": {
+    "name": "Rio Grande",
+    "region": "Rio Grande do Sul",
+    "country": "Brazil",
+    "lat": -32.03,
+    "lon": -52.08,
+    "tz_id": "America/Sao_Paulo",
+    "localtime_epoch": 1663874628,
+    "localtime": "2022-09-22 16:23"
+  },
+  "current": {
+    "last_updated_epoch": 1663874100,
+    "last_updated": "2022-09-22 16:15",
+    "temp_c": 13,
+    "temp_f": 55.4,
+    "is_day": 1,
+    "condition": {
+      "text": "Moderate rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png",
+      "code": 1189
+    },
+    "wind_mph": 22.4,
+    "wind_kph": 36,
+    "wind_degree": 185,
+    "wind_dir": "S",
+    "pressure_mb": 1009,
+    "pressure_in": 29.81,
+    "precip_mm": 4.5,
+    "precip_in": 0.18,
+    "humidity": 93,
+    "cloud": 100,
+    "feelslike_c": 10.2,
+    "feelslike_f": 50.4,
+    "vis_km": 7,
+    "vis_miles": 4,
+    "uv": 3,
+    "gust_mph": 29.3,
+    "gust_kph": 47.2
+  }
+}
